@@ -1,0 +1,10 @@
+2000 BestOne
+1900 SuperOne
+1800 WowOne
+1700 OddOne
+1600 GoodOne
+1500 NiceOne
+1000 PrettyOne
+800 BadOne
+600 TragicOne
+400 WowOne
